@@ -1,2 +1,3 @@
 # RLER-command-updates
-The changes to commands for the RLER bot.
+### The changes to commands for the RLER bot.
+## Check releases👉
